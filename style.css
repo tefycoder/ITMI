@@ -1,53 +1,4 @@
-/* =====================================
-Template Name: 	Mediplus.
-Author Name: Naimur Rahman
-Website: http://wpthemesgrid.com/
-Description: Mediplus - Doctor HTML Template.
-Version:	1.1
-========================================*/   
-/*======================================
-[ CSS Table of contents ]
-* Global CSS
-* Header CSS
-	+ Topbar
-	+ Logo
-	+ Widget
-	+ Main Menu
-	+ Search
-* Hero Slider CSS
-* Schedule CSS
-* Feautes CSS
-* Fun Facts CSS
-* Why Choose CSS
-* Call to Action CSS
-* Portfolio CSS
-	+ Portfolio Single CSS
-* Services CSS
-* Testimonials CSS
-* Departments CSS
-* Pricing Table CSS
-* Clients CSS
-* Team CSS
-	+ Single Team
-* Blog CSS
-	+ Latest Blog CSS
-	+ Blog Single CSS
-	+ Blog Sidebar CSS
-* Appointment CSS
-* Login CSS
-* Register CSS
-* Faq CSS
-* Contact Us CSS
-* Error 404 CSS
-* Mail Success CSS
-* Newsletter CSS
-* Doctor Calendar CSS
-* About Us CSS
-* Footer CSS
-========================================*/ 
-/*=============================
-	Global CSS 
-===============================*/
+
 body{
     font-family: 'Poppins', sans-serif;
 	font-weight: 400;
@@ -853,7 +804,7 @@ body{
 	right: -72px;
 	top: 60px;
 	width: 118px;
-	border-bottom: 3px dotted #26336D;
+	border-bottom: 3px dotted #fcfdff;
 }
 .Feautes .single-features.last::before{
 	display:none;
@@ -910,9 +861,9 @@ body{
 	background-size:cover;
 	background-repeat:no-repeat;
 }
-.fun-facts .single-fun {
+
 	
-}
+
 .fun-facts .single-fun i {
 	position: absolute;
 	left: 0;
@@ -954,6 +905,33 @@ body{
 	display: block;
 	margin-bottom: 7px;
 }
+
+.single-fun div  {
+	color: #fff;
+	font-weight: 600;
+	font-size: 30px;
+	position: relative;
+	display: block;
+	-webkit-transition: all 0.4s ease;
+	-moz-transition: all 0.4s ease;
+	transition: all 0.4s eas;
+	display: block;
+	margin-bottom: 7px;
+}
+.single-fun  small  {
+	color: #fff;
+	font-weight: 600;
+	font-size: 20px;
+	position: relative;
+	display: block;
+	-webkit-transition: all 0.4s ease;
+	-moz-transition: all 0.4s ease;
+	transition: all 0.4s eas;
+	display: block;
+	margin-bottom: 7px;
+}
+
+
 .fun-facts .single-fun p{
 	color:#fff;
 	font-size:15px;
@@ -3693,6 +3671,35 @@ body{
 /*===============================
 	End Doctor Calendar CSS
 =================================*/
+/*===============================
+	boton
+=================================*/
+
+.btn-2 {
+	display: inline-block;
+	border-radius: 15px;
+	background-color: #28df99;
+	border: none;
+	outline:none;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 28px;
+	padding: 20px;
+	width: 200px;
+	cursor: pointer;
+	margin: 5px;
+	box-shadow: 0 9px #666;
+  }
+  .btn-2:hover {
+	background: #03c4a1;
+  } 
+  .btn-2:active {
+	background: #03c4a1;
+	transform: translateY(5px);
+	box-shadow: 0 5px #666;
+  }
+
+
 
 /*=========================
 	Start About Us CSS
