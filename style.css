@@ -139,7 +139,7 @@ body{
 	box-shadow: 0px 0px 10px #00000026;
 }
 #scrollUp:hover{
-	background:#2C2D3F;
+	background:#6C1412;
 }
 /* Color Plate */
 .color-plate {
@@ -268,12 +268,12 @@ body{
 	margin-right:0px;
 }
 .header .top-link li a{
-	color:#2C2D3F;
+	color:#6C1412;
 	font-size:14px;
 	font-weight:400;
 }
 .header .top-link li:hover a{
-	color:##26336D;
+	color:#6C1412;
 }
 .header .top-contact{
 	float:right;
@@ -331,7 +331,7 @@ body{
 }
 .header .nav li a {
 	color: #2C2D3F;
-	font-size: 14px;
+	font-size: 18px;
 	font-weight: 500;
 	text-transform: capitalize;
 	padding: 25px 12px;
@@ -360,7 +360,7 @@ body{
 	width: 100%;
 }
 .header .nav li.active a{
-	color:#1A76D1;
+	color:#26336D;
 }
 .header .nav li:hover a:before{
 	opacity:1;
@@ -368,7 +368,7 @@ body{
 	visibility:visible;
 }
 .header .nav li:hover a{
-	color:#26336D;
+	color:#6C1412;
 }
 .header .nav li a i {
 	display: inline-block;
@@ -449,7 +449,7 @@ body{
 	opacity: 0;
 	visibility: hidden;
 	top: 74px;
-	border-left:3px solid #26336D;
+	border-left:3px solid #6C1412;
 }
 .header .nav li:hover .dropdown{
 	opacity:1;
@@ -482,7 +482,7 @@ body{
 	border-bottom:0px;
 }
 .header .nav li .dropdown li:hover a{
-	color:#1A76D1;
+	color:#6C1412;
 }
 .header .nav li .dropdown li a:hover{
 	border-color:transparent;
@@ -615,7 +615,7 @@ body{
 	color:#6C1412;
 }
 .slider .single-slider p {
-	color: #2C2D3F;
+	color: white;
 	margin-top: 27px;
 	font-weight: 400;
 }
@@ -745,21 +745,7 @@ body{
 .schedule .single-schedule:hover{
 	transform: translateY(-5px);
 }
-.schedule .single-schedule .icon i{
-	position: absolute;
-	font-size: 110px;
-	color: #fff;
-	 -webkit-transition: all .3s ease-out 0s;
-    -moz-transition: all .3s ease-out 0s;
-    -ms-transition: all .3s ease-out 0s;
-    -o-transition: all .3s ease-out 0s;
-    transition: all .3s ease-out 0s;
-	z-index:-1;
-	visibility:visible;
-	opacity:0.2;
-	right: -25px;
-	bottom: -30px;
-}
+
 .schedule .single-schedule span{
 	display:block;
 	color:#fff;
@@ -853,7 +839,6 @@ body{
 	right: -72px;
 	top: 60px;
 	width: 118px;
-	border-bottom: 3px dotted #26336D;
 }
 .Feautes .single-features.last::before{
 	display:none;
@@ -863,7 +848,7 @@ body{
 }
 .Feautes .single-features .signle-icon i{
 	font-size:50px;
-	color:#1a76d1;
+	color:#26336D;
 	position:absolute;
 	left:50%;
 	margin-left:-50px;
