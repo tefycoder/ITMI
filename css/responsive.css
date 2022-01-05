@@ -1140,6 +1140,19 @@ Version:	1.1
 	margin:15px 0;
 	position:relative;
 }
+
+.single-fun div{
+	margin: 35px 0;
+    
+    text-align: center;
+}
+
+.single-fun  small{
+	margin: 35px 0;
+    
+    text-align: center;
+}
+
 .fun-facts .single-fun {
 	margin: 35px 0;
 	padding-top: 60px;
