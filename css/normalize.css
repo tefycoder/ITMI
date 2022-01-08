@@ -170,7 +170,7 @@ input,
 select,
 optgroup,
 textarea {
-	color: #424646;
+	color:#26336D;
     font-family: 'Poppins', sans-serif;
 	font-weight:400;
 	font-size: 14px;
@@ -181,7 +181,7 @@ h1, h2, h3, h4, h5, h6 {
 	margin: 0;
 }
 p {
-	color:#757575;
+	color:#26336D;
 	margin: 0;
 	line-height:24px;
 	font-weight:400;
@@ -487,7 +487,7 @@ Preloader Area CSS
 }
 .section-title p{
 	font-size:15px;
-	color:#888;
+	color:#26336D;
 	margin-top:15px;
 }
 /* Overlay */
@@ -506,7 +506,7 @@ Preloader Area CSS
 }
 /* Bread Crumbs */
 .breadcrumbs {
-	background-image: url('../img/Hidraulica.png');
+	background-image: url('../img/Panoramica\ planta\ de\ procesos.png');
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
