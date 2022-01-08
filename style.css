@@ -241,7 +241,7 @@ body{
 	font-size:14px;
 }
 .header .top-contact li a:hover{
-	color:#26336D;
+	color:#6C1412;
 }
 .header .top-contact li i{
 	color:#26336D;
@@ -261,8 +261,8 @@ body{
 .header .logo {
 	float: left;
 	margin-top: 18px;
-	width: 50px;
-	height: 60px;
+	width: 57px;
+    height: 79px;
 }
 .header .navbar {
 	background: none;
@@ -281,7 +281,7 @@ body{
 	margin:0;
 }
 .header .nav li a {
-	color: #2C2D3F;
+	color: #26336D;
 	font-size: 18px;
 	font-weight: 500;
 	text-transform: capitalize;
@@ -365,7 +365,7 @@ body{
 	width: 40px;
 	line-height: 40px;
 	color: #fff;
-	background: #26336D;
+	background: #6C1412;
 	border-radius: 4px;
 	text-align: center;
 	font-size: 15px;
@@ -657,6 +657,8 @@ body{
 	position: relative;
 	text-align: left;
 	z-index:3;
+	height: 359px;
+    width: 359px;
 	border-radius:5px;
 	background:#26336D;
 	 -webkit-transition: all .3s ease-out 0s;
@@ -680,7 +682,7 @@ body{
     right: 0;
     margin: 0 auto;
     width: 80%;
-    height: 90%;
+    height: 100%;
     background:#26336D;
     opacity: 0;
     filter: blur(10px);
@@ -820,14 +822,22 @@ body{
 	color:#fff;
 	border-color:transparent;
 }
+.Feautes .single-features .signle-icon  img{
+    position: relative;
+	height: 300px;
+    width: 400px;
+}
+
+
 .Feautes .single-features h3{
 	padding-top: 128px;
-	color:#2C2D3F;
+	color:#26336D;
 	font-weight:600;
 	font-size:21px;
 }
 .Feautes .single-features p {
 	margin-top: 20px;
+	color:#26336D;
 }
 /*=============================
 	End Feautes CSS
@@ -843,7 +853,7 @@ body{
 	padding:120px 0;
 }
 .fun-facts{
-	background:url('img/Slide\ 3.png');
+	background:url('img/Panoramica\ cielo\ abierto.png');
 	background-size:cover;
 	background-repeat:no-repeat;
 }
@@ -854,11 +864,11 @@ body{
 	position: absolute;
 	left: 0;
 	font-size: 62px;
-	color: #fff;
+	color: #6c1412;
 	height: 70px;
 	width: 70px;
 	line-height: 67px;
-	font-size: 28px;
+	font-size: 48px;
 	text-align: center;
 	padding: 0;
 	margin: 0;
@@ -1433,7 +1443,6 @@ body{
 	border-radius: 3px;
 	margin: 0 0 0 -52px;
 	margin-top: 49px;
-	box-sizing: ;
 }
 .testimonials .owl-dots .owl-dot {
 	display: inline-block;
@@ -1972,6 +1981,7 @@ body{
 	-moz-transition: all 0.4s ease;
 	transition: all 0.4s ease;
 	box-shadow: 0px 0px 10px #00000014;
+	
 }
 .blog .single-news img{
 	width:100%;
@@ -1980,6 +1990,8 @@ body{
 	-webkit-transition:all 0.4s ease;
 	-moz-transition:all 0.4s ease;
 	transition:all 0.4s ease;
+	width: 300px;
+    height: 337px;
 }
 .blog .single-news .news-head{
 	position:relative;
@@ -3160,7 +3172,7 @@ body{
 }
 .accordion a:hover {
   color:#fff !important;
-  background:#26336D; !important;
+  background:#26336D !important; 
 }
 .accordion a:after {
   position: absolute;
@@ -3664,7 +3676,7 @@ body{
 .btn-2 {
 	display: inline-block;
 	border-radius: 15px;
-	background-color: #28df99;
+	background:#6C1412;
 	border: none;
 	outline:none;
 	color: #FFFFFF;
@@ -3677,7 +3689,7 @@ body{
 	box-shadow: 0 9px #666;
   }
   .btn-2:hover {
-	background: #03c4a1;
+	background: #26336D;
   } 
   .btn-2:active {
 	background: #03c4a1;
