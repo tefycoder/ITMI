@@ -824,7 +824,7 @@ body{
 }
 .Feautes .single-features .signle-icon  img{
     position: relative;
-	height: 300px;
+	height: 320px;
     width: 350px;
 }
 
@@ -864,7 +864,7 @@ body{
 	position: absolute;
 	left: 0;
 	font-size: 62px;
-	color: #6c1412;
+	color: white;
 	height: 70px;
 	width: 70px;
 	line-height: 67px;
@@ -986,7 +986,7 @@ body{
 .why-choose .choose-right{
 	height:100%;
 	width:100%;
-	background-image:url('img/video-bg.jpg');
+	background-image:url('img/video-bg.png');
 	background-size:cover;
 	background-position:center;
 	background-repeat:no-repeat;
@@ -1991,7 +1991,7 @@ body{
 	-moz-transition:all 0.4s ease;
 	transition:all 0.4s ease;
 	width: 300px;
-    height: 300px;
+    height: 290px;
 }
 .blog .single-news .news-head{
 	position:relative;
@@ -3527,7 +3527,7 @@ body{
 .newsletter .subscribe-text h6{
 	font-size:22px;
 	margin-bottom:10px;
-	color:#2C2D3F;
+	color:white;
 }
 .newsletter .subscribe-text p{}
 .newsletter .subscribe-form{
@@ -3537,7 +3537,7 @@ body{
 	height: 60px;
 	width: 300px;
 	border: none;
-	color: #333;
+	color: white;
 	box-shadow: none;
 	text-shadow: none;
 	border-radius: 5px;
@@ -3576,7 +3576,7 @@ body{
 
 /*===============================
 	Start Doctor Calendar CSS
-=================================*/
+=================================
 .doctor-calendar-area {
   position: relative;
   z-index: 1;
@@ -3692,7 +3692,7 @@ body{
 	background: #26336D;
   } 
   .btn-2:active {
-	background: #03c4a1;
+	background: white;
 	transform: translateY(5px);
 	box-shadow: 0 5px #666;
   }

@@ -352,7 +352,7 @@ function cuenta_regresiva(arg) {
   };
 }
 function imprimir() {
-  var arg = '19 Jan 2022';
+  var arg = '10 Jan 2022';
   $('#dias').html(cuenta_regresiva(arg).dias);
   $('#horas').html(cuenta_regresiva(arg).horas);
   $('#minutos').html(cuenta_regresiva(arg).minutos);
