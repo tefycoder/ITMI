@@ -15,8 +15,8 @@ Message: ".$message."
 
 ";
 
-mail ("administracion@itmi.ec" , "New Message", $email_message);
 header("location: ../mail-success.html");
+mail ("administracion@itmi.ec" , "Hola. Más Información", $email_message);
 ?>
 
 
